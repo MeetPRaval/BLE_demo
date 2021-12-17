@@ -1,0 +1,14 @@
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\bin\Debug\netstandard2.0\BLE_TEST.deps.json
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\bin\Debug\netstandard2.0\BLE_TEST.dll
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\bin\Debug\netstandard2.0\BLE_TEST.pdb
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.csproj.AssemblyReference.cache
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\Search.xaml.g.cs
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\Service.xaml.g.cs
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.AssemblyInfoInputs.cache
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.AssemblyInfo.cs
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.csproj.CoreCompileInputs.cache
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.dll
+D:\Development\Sample\Quick.Xamarin.BLE\Sample\BLE_TEST\BLE_TEST\obj\Debug\netstandard2.0\BLE_TEST.pdb

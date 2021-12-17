@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MjHVOSj1kfnxEg6ZmopavwvlzY6NZFdeVDkjTNWNbw4AyQ7WYylQM6IUHQPRps7i4oeiIb/5x25ycd+1ExmIw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Sample\\Quick.Xamarin.BLE\\Sample\\BLE_TEST\\BLE_TEST\\BLE_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\quick.xamarin.ble\\1.0.4\\quick.xamarin.ble.1.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\3.3.0.967583\\xamarin.forms.3.3.0.967583.nupkg.sha512"
+  ],
+  "logs": []
+}

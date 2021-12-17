@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8WzHShBctoRpbmEsXJEaelmZjLRH8CqUEhyu1UdYRufWuWOyhQQXr3lzX5Q+7iHaBHb3fMc3/XoMgnosmfYlw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Sample\\Quick.Xamarin.BLE\\Sample\\BLE_TEST\\BLE_TEST.iOS\\BLE_TEST.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\quick.xamarin.ble\\1.0.4\\quick.xamarin.ble.1.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\3.3.0.967583\\xamarin.forms.3.3.0.967583.nupkg.sha512"
+  ],
+  "logs": []
+}
